@@ -1,3 +1,5 @@
 contenu du fichier 2
 
 amelioration fonctionnalite du fichier2
+
+encore une amelioration de la fonctionnalite
