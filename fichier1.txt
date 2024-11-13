@@ -2,3 +2,8 @@ contenu du fichier 1
 je modifie le contenu de fichier1.txt apres le 1er commit...
 
 nouvelle ligne
+
+
+optimisation 1
+optimisation 2
+optimisation 3
